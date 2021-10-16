@@ -1,0 +1,9 @@
+  html{
+    background-image: linear-gradient(to right, black , black , red);
+    border-width: 5;
+    border-style: solid;
+    border-color: white;
+  }
+  h1,h4{
+      color: white;      
+  }
